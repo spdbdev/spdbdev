@@ -16,3 +16,10 @@ I am a Full Stack Software Engineer with a longstanding love for everything tech
 <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
 <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spdbdev&label=Profile%20views&color=0e75b6&style=flat" alt="D3vila" /> </p>
+
+
+### Contact Info:
+
+<a href="mailto:pursersky01@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
