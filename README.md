@@ -28,6 +28,8 @@ I am a Full Stack Software Engineer with a longstanding love for everything tech
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spdbdev&theme=dark)](https://github.com/spdbdev)
 
 
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=spdbdev&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/spdbdev)
+
 
 
 ### Contact Info:
