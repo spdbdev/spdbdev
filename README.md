@@ -4,7 +4,7 @@ I am a Full Stack Software Engineer with a longstanding love for everything tech
 
 ### Languages and Tools: 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-REACT-61DAFB?logo=React&logoColor=333333" /></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-REDUX-764ABC?logo=Redux" /></a>
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
