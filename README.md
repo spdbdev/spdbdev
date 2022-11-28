@@ -23,6 +23,11 @@ I am a Full Stack Software Engineer with a longstanding love for everything tech
 <a href="https://jquery.org/license/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=spdbdev&count_private=true&theme=dark)](https://github.com/spdbdev)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spdbdev&theme=dark)](https://github.com/spdbdev)
+
+
 ### Contact Info:
 
 <a href="mailto:pursersky01@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
