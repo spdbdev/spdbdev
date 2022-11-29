@@ -28,12 +28,10 @@ I am a Full Stack Software Engineer with a longstanding love for everything tech
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spdbdev&theme=dark)](https://github.com/spdbdev)
 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=spdbdev&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/spdbdev)
-
-
 
 ### Contact Info:
 
 <a href="mailto:pursersky01@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spdbdev&label=Profile%20views&color=0e75b6&style=flat" alt="D3vila" /> </p>
